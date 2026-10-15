@@ -1,1 +1,1 @@
-# agenci-AI-projekt-CallenadarAI
+Autorzy: Mikołaj Zawrotniak, Maciej Wełpa, Jędrzej Kwaśny
