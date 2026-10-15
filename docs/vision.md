@@ -12,11 +12,9 @@ Aplikacja układa plan w skali tygodnia, miesiąca i roku, uwzględniając wydar
 Użytkownik dodaje:
 - **Wydarzenia** — zajęcia, treningi i inne stałe lub jednorazowe przedziały dostępności albo zajętości.
 - **Zadania z terminem** — deadline oraz szacowany czas potrzebny na wykonanie.
+- **Swoje preferencje** - agent zapamiętuję informacje o użytkowniku
 
-Kalendarz proponuje bloki pracy przed terminami, uwzględniając dostępne okna, priorytety, kontekst dnia i potrzebny czas na dojazd lub przygotowanie. Może też dopasować aktywności, takie jak wyjście do kina, do planu i lokalizacji użytkownika. Deadline’y są wyraźnie oznaczone, a plan pozostaje elastyczny, by pomagać użytkownikowi podejmować bieżące decyzje bez rezygnowania z odpoczynku.
+Kalendarz proponuje bloki pracy przed terminami, uwzględniając dostępne okna, priorytety, kontekst dnia i potrzebny czas na dojazd lub przygotowanie. Może też dopasować aktywności, takie jak wyjście do kina, do planu i lokalizacji użytkownika. Deadline’y są wyraźnie oznaczone, a plan pozostaje elastyczny, by pomagać użytkownikowi podejmować bieżące decyzje bez rezygnowania z odpoczynku. Osobny agent szuka również wydarzeń, które odbywają się w naszej okolicy i w zależności od napięcia grafiku oraz naszych zainteresowań proponuje nam dodatkowe aktywności takie jak koncert, wyjście do teatru itd.
 
 ## Postscriptum
 calendarAI może wspierać budowanie nawyku samodyscypliny przez regularne realizowanie zaplanowanych bloków pracy — bez traktowania planu jako sztywnego nakazu.
-
-*Personalna podpowiedź: Maciej Welpa*
-
